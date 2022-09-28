@@ -16,7 +16,6 @@ conda activate AIAdvance
 ## 2.1. Python fundamental
 - [Python-fundamental](https://github.com/DatacollectorVN/Python-Tutorial)
 
-
 ## 2.2. Numpy fundamental
 ```
 pip install numpy
@@ -34,5 +33,5 @@ pip install pandas
 pip install matplotlib seaborn
 ```
 *Note:* This step create new python env. If you use Colab, just ignore it.
-- [Matplotlib-and-Seaborn-fundament](https://github.com/DatacollectorVN/Frameworks-Machine-Learning/tree/master/matplotlib-seaborn-other)
+- [Matplotlib-and-Seaborn-fundamental](https://github.com/DatacollectorVN/Frameworks-Machine-Learning/tree/master/matplotlib-seaborn-other)
 
